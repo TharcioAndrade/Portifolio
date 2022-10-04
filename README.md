@@ -1,2 +1,2 @@
 # Portifolio
-Meu portifolio com projetos ate o momento
+Meu portifolio feito com bulma/css e html, responsivo comos meus  projetos ate o momento
