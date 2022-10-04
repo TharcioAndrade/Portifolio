@@ -1,0 +1,17 @@
+.card{
+    margin-bottom: 20px;
+}
+
+.margem{
+    margin: 15px;
+}
+
+.imagem{
+    overflow: hidden;
+}
+.imagem img{
+    transition: 0.5s;
+}
+.imagem:hover img{
+    transform: scale(1.1);
+}
